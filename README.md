@@ -21,4 +21,4 @@ git clone git@github.com:stephan-lopes/color-pallet.git
 ```
 
 ## Para que serve?
-A finalidade é bem questionável. Pode ser para ter o nomes das cores, pois se você usar o nome gerado por elas, o shell acaba incorporando a cor do texto específico. Pode ser usado no Tmux por exemplo, para colocar uma das 255 cores pré-definidas. Uma curiosidade, é que o padrão inglês `colour` pode ser substituido por `color` que não resultará em problemas, nas versões mais recentes.Enfim, o uso, somente quem vai usar poderá dizer. Mas se precisar saber do nome de todas as cores, basta executar o script.
+A finalidade é bem questionável. Pode ser para ter o nomes das cores, pois se você usar o nome gerado por elas, o shell acaba incorporando a cor do texto específico. Pode ser usado no Tmux por exemplo, para colocar uma das 256 cores pré-definidas. Uma curiosidade, é que o padrão inglês `colour` pode ser substituido por `color` que não resultará em problemas, nas versões mais recentes.Enfim, o uso, somente quem vai usar poderá dizer. Mas se precisar saber do nome de todas as cores, basta executar o script.
